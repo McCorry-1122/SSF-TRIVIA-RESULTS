@@ -31,7 +31,7 @@
   </style>
 </head>
 <body>
-  <h1>Voting Results</h1>
+  <h1>SSF TRIVIA 12/07/2025 Results</h1>
   <table>
     <thead>
       <tr>
